@@ -1,0 +1,4 @@
+GATE-Harness=Phase-A-HI,Phase-A-LO,Phase-B-HI,Phase-B-LO,Phase-C-HI,Phase-C-LO
+RESL-Harness=RESOLVER-A0,RESOLVER-A1,RESOLVER-A2,RESOLVER-C4
+SNS-Harness=Isns_A-H,Isns_B-H,Isns_C-H,Vsns_H,Isns_A-L,Isns_C-L,Isns_B-L,Vsns_L
+TEMP-Harness=PWR-TEMP-1,PWR-TEMP-2,PWR-TEMP-3
